@@ -13,9 +13,7 @@ Eu me chamo Rafael Matheus de Freitas, tenho 30 anos e moro atualmente em Curiti
 ## Você pode me encontrar aqui 🌍
 
 <a href="instagram.com/rafaelwdc" align="center"><img src="img/Insta.svg"> </a>
-
 <a href="https://www.linkedin.com/in/rafael-matheus-1417ab269"><img src="img/Linkedin.svg"> </a>
-
 <a href="https://github.com/rafaelwdc"><img src="img/Github.svg"></a>
 
 ## Github Stats
